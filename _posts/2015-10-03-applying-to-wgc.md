@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Applying to We Got Coders"
-date: 2015-07-21
+date: 2015-10-03
 categories:
 ---
 
