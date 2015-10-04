@@ -26,11 +26,11 @@ The Room
 --------
 My room is on the second floor, facing the front of the house. It's immediately adjacent to a bright, comfortable space flanked with almost wall-to-wall windows and populated with leather furniture and bookshelves, where me and the other trainees spend most of our time coding.
 
-The room itself is relatively large; equipped with a king-size bed, cupboards and a desk at which to work. There's also a big ensuite bathroom with a shower. To be honest, I spend very little time there; but it's a great room to retire to after a long day of studying and coding.
+The room itself is relatively large; equipped with a king-sized bed, cupboards and a desk at which to work. There's also a big ensuite bathroom with a shower. To be honest, I spend very little time there; but it's a great room to retire to after a long day of studying and coding.
 
 The Other Trainees
 ------------------
-As well as Marvin, there are four other trainees taking the course, three of which are also living at the house. John comes from Solihul, Patty from Ecuador (via Spain and London), Adam from London and Simon from 20 minutes down the road.
+As well as Marvin, there are four other trainees taking the course, three of whom are also living at the house. John comes from Solihul, Patty from Ecuador (via Spain and London), Adam from London and Simon from 20 minutes down the road.
 
 All of them are very likeable and interesting, and after only a week it feels like we've known each other for longer. Everyone's knowledge of programming seems to be around the same level, which means we're all learning at more-or-less the same pace. I feel pretty lucky with the company here.
 
