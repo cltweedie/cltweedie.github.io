@@ -30,7 +30,7 @@ The room itself is relatively large; equipped with a king-sized bed, cupboards a
 
 The Other Trainees
 ------------------
-As well as Marvin, there are four other trainees taking the course, three of whom are also living at the house. John comes from Solihul, Patty from Ecuador (via Spain and London), Adam from London and Simon from 20 minutes down the road.
+As well as Marvin, there are four other trainees taking the course, three of whom are also living at the house. Jon comes from Solihull, Patty from Ecuador (via Spain and London), Adam from London and Simon from 20 minutes down the road.
 
 All of them are very likeable and interesting, and after only a week it feels like we've known each other for longer. Everyone's knowledge of programming seems to be around the same level, which means we're all learning at more-or-less the same pace. I feel pretty lucky with the company here.
 
