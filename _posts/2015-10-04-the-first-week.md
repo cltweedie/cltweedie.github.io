@@ -38,13 +38,17 @@ The Routine
 -----------
 An average day for me starts with waking up around 07:30 (I could get up later but prefer to have some free time in the morning) and eating breakfast before the lesson starts at 09:00. We begin the day with a group discussion about the work assignment from the previous day, and talk about our approaches and the challenges we encountered. Usually, a couple of people (or groups) will plug their laptops into the projector and talk through their code. This is a great way to remind yourself about the things you learned as well as consider alternative approaches to solving the same problem. Dan will then teach us from around 9:30 or 10:00 until lunch at 12:30 (with a short break in between).
 
-The lunches are always great. This week we've had burgers, pizza, baked potatoes and stir fry. Lunch is an hour, and at some point I usually find myself back at my laptop to read up on the subjects or complete other work. Dan continues teaching us until around 15:00, when he gives us our assignment to be completed by the following day. These vary in difficulty, but most are fairly challenging and each come with their own frustrations and victories.
+The lunches are always great. This week we've had burgers, pizza, baked potatoes and stir fry. Lunch is an hour, and at some point I usually find myself back at my laptop to read up on the subjects or complete other work.
 
-Dinner is around 18:00, and we all eat together and talk. Inevitably, we talk about coding as much as we talk about anything else. The meals have all been delicious, thanks to the culinary skills of the in-house chef, Rosa. After dinner we work on our assignments, either individually or in pairs, until we've completed the assignment or are unable to stay awake any longer.
+Dan continues teaching us until around 15:00, when he gives us our assignment to be completed by the following day. These vary in difficulty, but most are fairly challenging and each come with their own frustrations and victories.
+
+Dinner is around 18:00, and we all eat together and talk. Inevitably, we talk about coding as much as we talk about anything else. The meals have all been delicious, thanks to the culinary skills of the in-house chef, Rosa.
+
+After dinner we work on our assignments, either individually or in pairs, until we've completed the assignment or are unable to stay awake any longer.
 
 How Prepared Did I Feel?
 ------------------------
-Before the course began, one of my main concerns was whether I had done enough preparation. For others in the same position, I'll say this: The first week will probably be harder than you expect. Do as much preparation as you have time for, and go above and beyond the recommended groundwork to give yourself the best chance of understanding the assignments. Learn the essential Ruby concepts like control statements (if, unless, case etc) and structures (arrays, hashes), as well as how classes and objects work. Read "The Well Grounded Rubyist" - I only got half-way through this book before the course started, but it helped me understand some of the more complex ideas. Build things. Make text games that run in the terminal, but make sure to use classes and objects correctly, and use google when you get stuck on anything.
+Before the course began, one of my main concerns was whether I had done enough preparation. For others in the same position, I'll say this: The first week will probably be harder than you expect. Do as much preparation as you have time for, and go above and beyond the recommended groundwork to give yourself the best chance of understanding the assignments. Learn the essential Ruby concepts like control statements (if, unless, case etc) and structures (arrays, hashes), as well as how classes and objects work. Read "The Well Grounded Rubyist" - I only got half-way through this book before the course started, but it helped me understand some of the more complex ideas. Build things. Make text games that run in the terminal, but try to use classes and objects correctly, and use google when you get stuck on anything.
 
 Final Thoughts
 --------------
