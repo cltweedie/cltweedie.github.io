@@ -6,7 +6,7 @@ categories:
 ---
 
 ![The Team](https://pbs.twimg.com/media/CQVPnQbWoAAPm2M.jpg:large)
-*Left to right: Dan, Simon, Adam, Marvin, Me, John and Patty*
+*Left to right: Dan, Simon, Adam, Marvin, Me, John and Patty.*
 
 It's been a great first week here at the WGC house!
 
