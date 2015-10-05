@@ -3,6 +3,7 @@ layout: post
 title: "The First Week at We Got Coders"
 date: 2015-10-04
 categories:
+comments: true
 ---
 
 ![The Team](https://pbs.twimg.com/media/CQVPnQbWoAAPm2M.jpg:large)

@@ -3,6 +3,7 @@ layout: post
 title: "Applying to We Got Coders"
 date: 2015-10-03
 categories:
+comments: true
 ---
 
 One week ago, I started an intensive web development course at [We Got Coders](http://wegotcoders.com), a countryside retreat in rural Bedfordshire which aims to turn it's students into full-stack developers ready to go straight into careers.
