@@ -6,7 +6,9 @@ categories:
 comments: true
 ---
 
-For me, this week was a step up; both in terms of subject matter and difficulty. I'm still having a great time, but I've probably said "I'm confused" more in the last week than I have in the last year.
+I've just completed my second week at [We Got Coders](http://wegotcoders.com).
+
+For me, this week was a step up; both in terms of the level of the subject matter and the difficulty. I'm still having a great time, but I've probably said "I'm confused" more in the last week than I have in the last year.
 
 The focus of the lessons and assignments for the last few days has been [test-driven development](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) and [design patterns](https://en.wikipedia.org/wiki/Software_design_pattern). Last week we covered the fundamentals of Ruby and object-oriented programming, most of which I was already fairly familiar with. The subjects this week were relatively new concepts to me (before Monday I had only ever written a handful of tests and never implemented a pattern), so, understandably, I had some difficulty getting my head around some of the ideas.
 
